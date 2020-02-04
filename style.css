@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+.left {
+    float: left;
+
+}
+
+.right {
+    float: right;
+
+}
+
+.clearleft {
+    clear: left;
+
+}
+.clearright {
+    clear: right;
+
+}
+
+img {
+    width: 150px;
+    padding: 10px 10px 10px 10px;
+}
+.div3 {
+
+    float: right;
+    padding: 10px 10px 10px 10px;
+
+}
+.div4{
+    width: 48%;
+}
+
+
+
+
